@@ -1,4 +1,4 @@
-This is testFile of Branch1 of GJMI_Assignment1 repo.
+This is testFile of Branch_2 of GJMI_Assignment1 repo.
 
 #This is latest update on 13th July 2024
 
